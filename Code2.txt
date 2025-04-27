@@ -1,2 +1,3 @@
 Hello, this is Code2.txt file
 This is the first change
+I am editing this file now after checking the git status
